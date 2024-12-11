@@ -1,4 +1,6 @@
 pip==24.3.1
+setuptools
+wheel
 pandas==2.1.1
 nltk==3.8.1
 streamlit==1.26.0
